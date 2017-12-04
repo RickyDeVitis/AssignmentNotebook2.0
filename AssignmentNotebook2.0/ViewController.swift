@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        view.backgroundColor = UIColor.blue
+        //sam's bench is weak
        //apples
     }
 
