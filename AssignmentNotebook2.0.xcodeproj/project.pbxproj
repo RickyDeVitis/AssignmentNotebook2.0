@@ -14,6 +14,7 @@
 		019747631FD59AC8006BECC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 019747611FD59AC8006BECC8 /* LaunchScreen.storyboard */; };
 		0197476E1FD59AC8006BECC8 /* AssignmentNotebook2_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0197476D1FD59AC8006BECC8 /* AssignmentNotebook2_0Tests.swift */; };
 		019747791FD59AC8006BECC8 /* AssignmentNotebook2_0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019747781FD59AC8006BECC8 /* AssignmentNotebook2_0UITests.swift */; };
+		1A9B751C1FD59EF1002E05B2 /* BlockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9B751B1FD59EF1002E05B2 /* BlockViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		019747741FD59AC8006BECC8 /* AssignmentNotebook2.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AssignmentNotebook2.0UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		019747781FD59AC8006BECC8 /* AssignmentNotebook2_0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentNotebook2_0UITests.swift; sourceTree = "<group>"; };
 		0197477A1FD59AC8006BECC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A9B751B1FD59EF1002E05B2 /* BlockViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlockViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				019747581FD59AC8006BECC8 /* AppDelegate.swift */,
 				0197475A1FD59AC8006BECC8 /* ViewController.swift */,
+				1A9B751B1FD59EF1002E05B2 /* BlockViewController.swift */,
 				0197475C1FD59AC8006BECC8 /* Main.storyboard */,
 				0197475F1FD59AC8006BECC8 /* Assets.xcassets */,
 				019747611FD59AC8006BECC8 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0197475B1FD59AC8006BECC8 /* ViewController.swift in Sources */,
+				1A9B751C1FD59EF1002E05B2 /* BlockViewController.swift in Sources */,
 				019747591FD59AC8006BECC8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
